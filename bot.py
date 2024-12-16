@@ -5,7 +5,7 @@ from aiogram import Bot, Dispatcher
 from dotenv import load_dotenv
 import message_router
 
-# Загрузка переменных окружения из файла .env
+# Загрузка переменных  окружения из файла .env
 load_dotenv()
 
 async def main():
